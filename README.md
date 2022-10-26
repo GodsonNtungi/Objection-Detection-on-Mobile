@@ -1,4 +1,4 @@
-# ObjectDetection is Swahili Language
+# ObjectDetection in Swahili Language
 
 Try out APK
 - Make sure your mobile has enough compute power, it uses the mobile CPU
